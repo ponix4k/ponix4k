@@ -1,5 +1,8 @@
 Hi 👋 My name is John
-=====================Junior web developer--------------------I've Been Learning Ruby on Rails now for about 2 years and I really enjoy it. I also enjoy tinkering with python to create some tools that help solve some CTF challenges.* 🌍  I'm based in England* 🖥️  See my portfolio at [projectmoonrope.co.uk](http://projectmoontope.co.uk)* ✉️  You can contact me at [ponix@protonmail.com](mailto:ponix@protonmail.com)* 🚀  I'm currently working on [HACK-itchen](http://kitchen.leighhack.org)* 🧠  I'm learning ruby on rails* 🤝  I'm open to collaborating on Rubu on rails
+=====================
+Junior web developer
+--------------------
+I've Been Learning Ruby on Rails now for about 2 years and I really enjoy it. I also enjoy tinkering with python to create some tools that help solve some CTF challenges.* 🌍  I'm based in England* 🖥️  See my portfolio at [projectmoonrope.co.uk](http://projectmoontope.co.uk)* ✉️  You can contact me at [ponix@protonmail.com](mailto:ponix@protonmail.com)* 🚀  I'm currently working on [HACK-itchen](http://kitchen.leighhack.org)* 🧠  I'm learning ruby on rails* 🤝  I'm open to collaborating on Rubu on rails
 
 ### Skills
 
