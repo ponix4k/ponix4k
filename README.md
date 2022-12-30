@@ -8,7 +8,7 @@ I also enjoy tinkering with python to create some tools that help solve some CTF
 * 🌍  I'm based in England
 * 🖥️  See my portfolio at [projectmoonrope.co.uk](http://projectmoontope.co.uk)
 * ✉️  You can contact me at [ponix@protonmail.com](mailto:ponix@protonmail.com)
-* 🚀  I'm currently working on [HACK-itchen](http://kitchen.leighhack.org)
+* 🚀  I'm currently working on [Hack-IT-chen](http://kitchen.leighhack.org)
 * 🧠  I'm learning Ruby on Rails
 * 🤝  I'm open to collaborating on Ruby on Rails or small python projects
 * 🎏  I created a CTF Challenge that was used in the CTT 2022 advent CTF
