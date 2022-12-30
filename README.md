@@ -2,7 +2,7 @@ Hi 👋 My name is John
 =====================
 Junior web developer and Parttime CTFer
 --------------------
-I've Been Learning Ruby on Rails now for about 2 years and I really enjoy it. 
+I've Been Learning Ruby on Rails now for about 2 years and I really enjoy it. \n
 I also enjoy tinkering with python to create some tools that help solve some CTF challenges.
 
 * 🌍  I'm based in England
