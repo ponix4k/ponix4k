@@ -11,7 +11,7 @@ I also enjoy tinkering with python to create some tools that help solve some CTF
 * 🚀  I'm currently working on [HACK-itchen](http://kitchen.leighhack.org)
 * 🧠  I'm learning Ruby on Rails
 * 🤝  I'm open to collaborating on Ruby on Rails or small python projects
-* :: I created a CTF Challenge that was used in the CTT 2022 advent CTF
+* 🎏  I created a CTF Challenge that was used in the CTT 2022 advent CTF
 
 ### Skills
 
@@ -36,7 +36,9 @@ I also enjoy tinkering with python to create some tools that help solve some CTF
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/leigh-hackspace/Scavenger_hunt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ponix4k&repo=https://github.com/leigh-hackspace/Scavenger_hunt&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/leigh-hackspace/hackitchen" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ponix4k&repo=https://github.com/leigh-hackspace/hackitchen&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+ <a href="https://github.com/leigh-hackspace/Scavenger_hunt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ponix4k&repo=Scavenger_hunt&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+ <a href="https://github.com/leigh-hackspace/hackitchen" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ponix4k&repo=hackitchen&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
