@@ -6,7 +6,7 @@ I've Been Learning Ruby on Rails now for about 2 years and I really enjoy it. <b
 I also enjoy tinkering with python to create some tools that help solve some CTF challenges.
 
 * 🌍  I'm based in England
-* 🖥️  See my portfolio at [projectmoonrope.co.uk](http://projectmoonrope.co.uk)
+* 🖥️  See my portfolio at [johnze.co.uk](http://johnze.co.uk)
 * ✉️  You can contact me at [ponix@protonmail.com](mailto:ponix@protonmail.com)
 * 🚀  I'm currently working on [Hack-IT-chen](http://kitchen.leighhack.org)
 * 🧠  I'm learning Ruby on Rails
